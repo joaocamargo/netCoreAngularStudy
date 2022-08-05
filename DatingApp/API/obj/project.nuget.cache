@@ -1,15 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qYP+qvRe6C9rkWHv2yaqp5VLzX4nQJmxDxWRkJp2izp9kejOjgf3dH+gYJ38f4o/ykgnvi0DxdIIWQ39a4TvXA==",
+  "dgSpecHash": "xL+nO3uAiEdO+zmhDXXLhzidG3dmiYr5j9pDXl6Ss/BIa5SA2NQMfzAJQGDJHcB46DJbiCQ+WIeoTGE75mAylw==",
   "success": true,
   "projectFilePath": "/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
-    "/Users/joaocamargo/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/joaocamargo/.nuget/packages/microsoft.data.sqlite.core/6.0.7/microsoft.data.sqlite.core.6.0.7.nupkg.sha512",
     "/Users/joaocamargo/.nuget/packages/microsoft.entityframeworkcore/6.0.7/microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
     "/Users/joaocamargo/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.7/microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",
     "/Users/joaocamargo/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.7/microsoft.entityframeworkcore.analyzers.6.0.7.nupkg.sha512",
-    "/Users/joaocamargo/.nuget/packages/microsoft.entityframeworkcore.design/6.0.7/microsoft.entityframeworkcore.design.6.0.7.nupkg.sha512",
     "/Users/joaocamargo/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.7/microsoft.entityframeworkcore.relational.6.0.7.nupkg.sha512",
     "/Users/joaocamargo/.nuget/packages/microsoft.entityframeworkcore.sqlite/6.0.7/microsoft.entityframeworkcore.sqlite.6.0.7.nupkg.sha512",
     "/Users/joaocamargo/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/6.0.7/microsoft.entityframeworkcore.sqlite.core.6.0.7.nupkg.sha512",
