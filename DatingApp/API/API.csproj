@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <!-- <ImplicitUsings>enable</ImplicitUsings> -->
+    <UserSecretsId>5d8f5ab8-425c-4597-8919-aac60a2c7dcb</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -14,6 +15,7 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.22.0" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.8" />
+    <PackageReference Include="MySql.EntityFrameworkCore" Version="6.0.4" />
   </ItemGroup>
 
   <ItemGroup>
@@ -23,6 +25,7 @@
     <None Remove="System.IdentityModel.Tokens.Jwt" />
     <None Remove="Microsoft.AspNetCore.Authentication.JwtBearer" />
     <None Remove="Extensions\" />
+    <None Remove="MySql.EntityFrameworkCore" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DTOs\" />

@@ -5,6 +5,8 @@ using API.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using MySql.EntityFrameworkCore.Extensions;
+
 
 namespace API.Extensions
 {
@@ -16,7 +18,8 @@ namespace API.Extensions
             services.AddScoped<ITokenService, TokenService>();
 
             services.AddDbContext<DataContext>(options => {
-                options.UseSqlite(config.GetConnectionString("DefaultConnection"));
+                options.UseMySQL(config.GetConnectionString("DefaultConnection2"));
+                
             });
 
             return services;
