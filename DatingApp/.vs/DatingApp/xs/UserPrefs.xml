@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{897957C4-FBD5-468C-AE0C-CDF897A2594B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="API/Controllers/UsersController.cs" Line="10" Column="19" />
+      <File FileName="API/Data/Migrations/DataContextModelSnapshot.cs" />
+      <File FileName="API/Entities/AppUser.cs" />
+      <File FileName="../../../../../../../usr/local/share/dotnet/x64/sdk/6.0.106/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.targets" />
+      <File FileName="API/Controllers/AccountController.cs" Line="34" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DatingApp" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AccountController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True" />
+              </Node>
+              <Node name="Entities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/Controllers/AccountController.cs" relfile="API/Controllers/AccountController.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

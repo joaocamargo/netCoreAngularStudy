@@ -7,7 +7,6 @@
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/obj/Debug/net6.0/API.MvcApplicationPartsAssemblyInfo.cache
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/appsettings.Development.json
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/appsettings.json
-/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/API
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/API.deps.json
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/API.runtimeconfig.json
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/API.dll
@@ -21,7 +20,6 @@
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/obj/Debug/net6.0/scopedcss/bundle/API.styles.css
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/obj/Debug/net6.0/API.csproj.CopyComplete
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/obj/Debug/net6.0/API.dll
-/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/obj/Debug/net6.0/refint/API.dll
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/obj/Debug/net6.0/API.pdb
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/obj/Debug/net6.0/API.genruntimeconfig.cache
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/obj/Debug/net6.0/ref/API.dll
@@ -54,3 +52,13 @@
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/package-lock.json
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/package.json
+/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/ref/API.dll
+/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/API
+/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
