@@ -15,12 +15,17 @@ export class NavComponent implements OnInit {
   constructor(public accountService: AccountService) { }
 
   ngOnInit(): void {    
+    var userLoggedIn = JSON.parse(localStorage.getItem("user"));
+    if (userLoggedIn) {
+      this.model.username = userLoggedIn.username;
+    }
   }
 
   login(){        
     this.accountService.login(this.model).subscribe({      
       next: (response) => {         
       console.log(response) 
+      console.table(this.model)
     },
       error: error => console.log(error)           
     })
@@ -31,7 +36,8 @@ export class NavComponent implements OnInit {
   }
 
   getCurrentUser() {
-    this.accountService.currentUser$.subscribe(user => {      
+    this.accountService.currentUser$.subscribe(user => {     
+      this.model.username = user.username 
     }, error => {
       console.log(error);
     });
