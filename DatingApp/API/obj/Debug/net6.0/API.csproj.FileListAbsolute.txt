@@ -62,8 +62,8 @@
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/Data/UserSeedData.json
-/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/ref/API.dll
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/AutoMapper.dll
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/CloudinaryDotNet.dll
 /Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/joaocamargo/macHD/ESTUDOS/C_sharp_Angular/netCoreAngularStudy/DatingApp/API/bin/Debug/net6.0/ref/API.dll
